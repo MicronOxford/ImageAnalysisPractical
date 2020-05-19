@@ -1,8 +1,7 @@
 # ImageAnalysisPractical
 Biomedical image analysis Engineering practical
 
-Repository to try and setup a cloud based image analysis practical for the engineering and other future courses we teach.
-
+Repository to for cloud based intro to python. Click on the button below to launch it as a cloud based application. 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MicronOxford/ImageAnalysisPractical/master?filepath=index.ipynb)
 
